@@ -8,15 +8,15 @@ I am a second year student in the IASC program at Brock University. My research 
 
 ![](images/manatees.jpg)
 
-## Featured Project: [Title of project here]
+## Featured Project: [Wax Cylinder Recording]
 
 ![](images/featured.jpg)
 
 Here are 250 words introducing this work.
 
-Here is my 250 word statement describing how this research evolved over time. I made these changes, which you can see [here](https://github.com/IascAtBrock/IASC-2P02/commit/3848629cb7488d618fcac6582fd03ebc3cf6e0a1#diff-e95c7dc8eefee7d0e25121cd7f0007ae). I also made these changes, which you can see [here](https://github.com/IascAtBrock/IASC-2P02/commit/df05b5022c6131df49b377153cfd202a98d5d6bf#diff-e95c7dc8eefee7d0e25121cd7f0007ae). I also made these changes, which you can see [here](https://github.com/IascAtBrock/IASC-2P02/commit/e5224ea6fdccca454f4f3d58811a9024ab118f49#diff-e95c7dc8eefee7d0e25121cd7f0007ae). Overall these changes show x and y changes in my thinking.
+Here is my 250 word statement describing how this research evolved over time. I made these changes, which you can see [here](https://github.com/AlexVillada/IASC-2P02/commit/cb547a874c6bcc10496c04793a7864ae7ae558c9#diff-abdf882c25e08d9ba219fe33f17591fe). I also made these changes, which you can see [here](https://github.com/AlexVillada/IASC-2P02/commit/45458c7096da2aac039da778cb89204bdebf93d8#diff-abdf882c25e08d9ba219fe33f17591fe). I also made these changes, which you can see [here](https://github.com/AlexVillada/IASC-2P02/commit/d772ec3be86caadb949c53333ed35fc608a19fd5#diff-abdf882c25e08d9ba219fe33f17591fe). Overall these changes show x and y changes in my thinking.
 
-Read [Title goes here](blog)
+Read [Wax Cylinder Recording](blog)
 
 ## Collaborative Project
 
